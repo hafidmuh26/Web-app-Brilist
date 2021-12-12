@@ -1,0 +1,10 @@
+export { default as AktuarisPage } from "./Devisi.Aktuaris";
+export { default as AsuransiJiwaKreditPage } from "./Devisi. Asuransi_Jiwa_Kredit";
+export { default as Kepatuhan_LegalPage } from "./Devisi.Kepatuhan_Legal";
+export { default as KlaimPage } from "./Devisi.Klaim";
+export { default as Layanan_PempolPage } from "./Devisi.Layanan_Pempol";
+export { default as Manajement_InvestasiPage } from "./Devisi.Manajement_Investasi";
+export { default as Manajement_KeuanganPage } from "./Devisi.Manajement_Keuangan";
+export { default as Manajement_ProdukPage } from "./Devisi.Manajement_Produk";
+export { default as Manajement_ResikoPage } from "./Devisi.Manajement_Resiko";
+export { default as SyariahPage } from "./Devisi.Syariah";
