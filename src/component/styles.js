@@ -1,5 +1,5 @@
 import { DRAWER_WIDTH } from "./constants";
-import background from "../assets/image/background2.jpg";
+import background from "../assets/image/Design8.jpg";
 import { ListItemButton } from "@mui/material";
 
 const styles = (theme) => ({
@@ -83,7 +83,7 @@ const styles = (theme) => ({
     justifyContent: "flex-end",
     padding: theme.spacing(0, 1),
     ...theme.mixins.toolbar,
-    backgroundColor: "#121858",
+    backgroundColor: "#00448b",
   },
   toolbar1: {
     display: "flex",
